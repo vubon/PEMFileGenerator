@@ -27,7 +27,7 @@ except Exception as err:
 
 ```
 
-To learn more [Documentation](./docs/GUIDE.md).
+To learn more [Documentation](https://github.com/vubon/PEMFileGenerator/blob/main/docs/GUIDE.md).
 
 ## Changelog
 
